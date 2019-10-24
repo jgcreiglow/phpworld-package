@@ -21,9 +21,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Security
 
 
-## [1.0.0] - YYYY-MM-DD
+## [1.0.0] - 2019-10-24
 
 ### Added
+*Initial release with PHPWorldUuid
 
 * Feature A description
 * Feature B description
